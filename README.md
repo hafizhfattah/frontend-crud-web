@@ -1,6 +1,6 @@
 ### 📦 **Frontend CRUD Web**
 
-This CRUD Web for Frontend Section
+This CRUD Web for Frontend Section.
 Made With MySQL, Express, ReactJS, NodeJS (MERN)
 
 ### 🚀 **Getting Started**
